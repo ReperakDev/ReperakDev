@@ -1,7 +1,5 @@
-<h1>Hi</h1>
+# Hi
 
-I'm Reperak. I do Java and I own <a href=https://github.com/zorroware>Zorroware</a>.
+I'm Reperak. I do Java and I own [Zorroware](https://github.com/zorroware).
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=ReperakDev&show_icons=true&theme=dark"></img>
-</p>
+![Reperak's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ReperakDev&show_icons=true&theme=dark)
